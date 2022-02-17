@@ -1,0 +1,121 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="### ۩  Iran | IRIB  ۩ ###" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png" group-title="Iran | IRIB Group",### ۩  Iran | IRIB  ۩ ###
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15064.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV1" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV1
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15065.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV2" tvg-logo="https://static.epg.best/ir/TV2Farsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV2
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15066.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV3 HEVC" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV3 HEVC
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/126280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV3 HD ( Live Events )" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV3 HD ( Live Events )
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/126255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV3 SD ( Live Events  )" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV3 SD ( Live Events  )
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15067.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV4" tvg-logo="https://static.epg.best/ir/ChannelFour.ir.png" group-title="Iran | IRIB Group",IR: IRIB TV4
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15068.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/IRIB_TV5_Logo.png" group-title="Iran | IRIB Group",IR: IRIB TV5
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15069.ts
+#EXTINF:-1 tvg-id="irinn.gb" tvg-name="IR: IRIB IRINN" tvg-logo="https://sepehr.irib.ir/uploads/channel/khabar-min.png" group-title="Iran | IRIB Group",IR: IRIB IRINN
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/80793.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Varzesh" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB Varzesh
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141715.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Varzesh HD" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB Varzesh HD
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/28721.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Tamasha HD" tvg-logo="https://static.epg.best/ir/Watch.ir.png" group-title="Iran | IRIB Group",IR: IRIB Tamasha HD
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55255.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Mostanad HD" tvg-logo="https://static.epg.best/ir/MostanadFarsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB Mostanad HD
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15071.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Shoma" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/IRIB_Shoma_TV%27s_new_logo.png/240px-IRIB_Shoma_TV%27s_new_logo.png" group-title="Iran | IRIB Group",IR: IRIB Shoma
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55981.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Namayesh" tvg-logo="https://static.epg.best/ir/NamayeshFarsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB Namayesh
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55979.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Amoozesh" tvg-logo="https://static.epg.best/ir/AmoozeshFarsi.ir.png" group-title="Iran | IRIB Group",IR: IRIB Amoozesh
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55967.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Pooya" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/67/POOYA_tv_2.svg/1200px-POOYA_tv_2.svg.png" group-title="Iran | IRIB Group",IR: IRIB Pooya
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141700.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Javane" tvg-logo="http://live.irib.ir/uploads/channel/shabake-javane130-130.png" group-title="Iran | IRIB Group",IR: IRIB Javane
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/146008.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Omid" tvg-logo="https://sepehr.irib.ir/uploads/channel/omido-min.png" group-title="Iran | IRIB Group",IR: IRIB Omid
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55970.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Nasim" tvg-logo="https://static.epg.best/ir/Breeze.ir.png" group-title="Iran | IRIB Group",IR: IRIB Nasim
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15070.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Ofogh" tvg-logo="https://static.epg.best/ir/Horizon.ir.png" group-title="Iran | IRIB Group",IR: IRIB Ofogh
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15079.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Salamat" tvg-logo="https://www.parsatv.com/index_files/channels/salamat.png" group-title="Iran | IRIB Group",IR: IRIB Salamat
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141701.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Iran Kala" tvg-logo="https://img.fam.ir/uploads/channel/logo_channel14-min.png" group-title="Iran | IRIB Group",IR: IRIB Iran Kala
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Quran" tvg-logo="https://www.parsatv.com/index_files/channels/quran.png" group-title="Iran | IRIB Group",IR: IRIB Quran
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141702.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: iFilm 1" tvg-logo="http://ifilmtv.ir/Content/Intro/Layer.png" group-title="Iran | IRIB Group",IR: iFilm 1
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: iFilm 2" tvg-logo="http://ifilmtv.ir/Content/Intro/Layer.png" group-title="Iran | IRIB Group",IR: iFilm 2
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/146625.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: iFilm EN" tvg-logo="http://ifilmtv.ir/Content/Intro/Layer.png" group-title="Iran | IRIB Group",IR: iFilm EN
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: iFilm Arabic" tvg-logo="http://ifilmtv.ir/Content/Intro/Layer.png" group-title="Iran | IRIB Group",IR: iFilm Arabic
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Jame-Jam TV" tvg-logo="https://sepehr.irib.ir/uploads/channel/untitled-3-min.png" group-title="Iran | IRIB Group",IR: IRIB Jame-Jam TV
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55978.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Jame-Jam TV 2" tvg-logo="https://sepehr.irib.ir/uploads/channel/untitled-3-min.png" group-title="Iran | IRIB Group",IR: IRIB Jame-Jam TV 2
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/147852.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Jame-Jam TV 3" tvg-logo="https://sepehr.irib.ir/uploads/channel/untitled-3-min.png" group-title="Iran | IRIB Group",IR: IRIB Jame-Jam TV 3
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/147851.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Esfahan" tvg-logo="https://sepehr.irib.ir/uploads/channel/isfahan-02.png" group-title="Iran | IRIB Group",IR: IRIB Esfahan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/118733.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Khoozestan" tvg-logo="https://img.fam.ir/uploads/channel/logo_khoozestan_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Khoozestan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55972.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Markazi (Aftab TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_markazi_aftab.png" group-title="Iran | IRIB Group",IR: IRIB Markazi (Aftab TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55968.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Boushehr" tvg-logo="https://img.fam.ir/uploads/channel/logo_booshehr_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Boushehr
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55969.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Kordestan" tvg-logo="https://img.fam.ir/uploads/channel/logo_kurdestan.png" group-title="Iran | IRIB Group",IR: IRIB Kordestan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55971.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Zanjan (Eshragh TV)" tvg-logo="https://sepehr.irib.ir/uploads/channel/zanjan-02.png" group-title="Iran | IRIB Group",IR: IRIB Zanjan (Eshragh TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55973.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Semnan" tvg-logo="https://img.fam.ir/uploads/channel/logo_semnan.png" group-title="Iran | IRIB Group",IR: IRIB Semnan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55974.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Abadan" tvg-logo="https://sepehr.irib.ir/uploads/channel/abadan.png" group-title="Iran | IRIB Group",IR: IRIB Abadan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55975.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Lorestan (Aflak TV)" tvg-logo="https://sepehr.irib.ir/uploads/channel/aflak-min.png" group-title="Iran | IRIB Group",IR: IRIB Lorestan (Aflak TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55976.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Alborz" tvg-logo="https://img.fam.ir/uploads/channel/logo_alborz_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Alborz
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55977.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Sahand" tvg-logo="https://img.fam.ir/uploads/channel/logo_sahand_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Sahand
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/55980.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Fars" tvg-logo="https://sepehr.irib.ir/uploads/channel/fars-min.png" group-title="Iran | IRIB Group",IR: IRIB Fars
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15078.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Gazvin" tvg-logo="https://sepehr.irib.ir/uploads/channel/qazvin-02.png" group-title="Iran | IRIB Group",IR: IRIB Gazvin
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/15080.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Mazandaran (Tabarestan TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_mazandaran_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Mazandaran (Tabarestan TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141706.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Khorasan Razavi" tvg-logo="https://img.fam.ir/uploads/channel/logo_khorasan_r.png" group-title="Iran | IRIB Group",IR: IRIB Khorasan Razavi
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141707.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Guilan (Baran TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_baran_-opimize.png" group-title="Iran | IRIB Group",IR: IRIB Guilan (Baran TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141708.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Mahabad" tvg-logo="https://img.fam.ir/uploads/channel/logo_mahabad.png" group-title="Iran | IRIB Group",IR: IRIB Mahabad
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141709.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Ilam" tvg-logo="https://img.fam.ir/uploads/channel/logo_ilam.png" group-title="Iran | IRIB Group",IR: IRIB Ilam
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141710.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Kerman" tvg-logo="https://sepehr.irib.ir/uploads/channel/kerman-min.png" group-title="Iran | IRIB Group",IR: IRIB Kerman
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141711.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Khorasan Shomali (Atrak TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_khorasan_n.png" group-title="Iran | IRIB Group",IR: IRIB Khorasan Shomali (Atrak TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141712.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Khorosan Jonoobi (Khavaran TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_khavaran.png" group-title="Iran | IRIB Group",IR: IRIB Khorosan Jonoobi (Khavaran TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141713.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Yazd (Taban TV)" tvg-logo="https://img.fam.ir/uploads/channel/logo_yazd.png" group-title="Iran | IRIB Group",IR: IRIB Yazd (Taban TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/141714.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Noor (Qom TV)" tvg-logo="https://sepehr.irib.ir/uploads/channel/qom-02.png" group-title="Iran | IRIB Group",IR: IRIB Noor (Qom TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145171.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Jahanbin" tvg-logo="https://sepehr.irib.ir/uploads/channel/jahanbin.png" group-title="Iran | IRIB Group",IR: IRIB Jahanbin
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145172.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Sabalan" tvg-logo="https://sepehr.irib.ir/uploads/channel/ardebil-min.png" group-title="Iran | IRIB Group",IR: IRIB Sabalan
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145173.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Dena" tvg-logo="https://sepehr.irib.ir/uploads/channel/dena-min.png" group-title="Iran | IRIB Group",IR: IRIB Dena
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145174.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Qazvin" tvg-logo="https://sepehr.irib.ir/uploads/channel/qazvin-02.png" group-title="Iran | IRIB Group",IR: IRIB Qazvin
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145175.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Hamedan (Sina TV)" tvg-logo="https://sepehr.irib.ir/uploads/channel/hamedan-min.png" group-title="Iran | IRIB Group",IR: IRIB Hamedan (Sina TV)
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145176.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IR: IRIB Khalij-e Fars" tvg-logo="https://sepehr.irib.ir/uploads/channel/khalijfars.png" group-title="Iran | IRIB Group",IR: IRIB Khalij-e Fars
+http://setiptv.ddnsco.com:8080/live/setiptv6m20/05021res/145177.ts
